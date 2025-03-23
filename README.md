@@ -1,2 +1,2 @@
-# pipeline-mysql-dbt-vertica
+# Pipeline MySQL - DBT - Vertica
 Pipeline MySQL - DBT - Vertica
